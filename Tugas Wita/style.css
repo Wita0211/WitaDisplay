@@ -1,0 +1,28 @@
+body{
+	border:10px double #9900cc;
+	margin:20px 20px 20px 20px;
+	padding:20px 20px 20px 20px;
+
+	background-color: #ff66ff;
+	font-family: 'Times New Roman', Times,serif;
+	color: #333;
+}
+
+h2{
+	margin-bottom: -15px;
+}
+
+hr{
+	border:2px solid #9900cc;
+	margin-left:-20px;
+	margin-right:-20px;
+}
+
+footer{
+	background-color: #9900cc;
+	padding: 20px;
+	text-align: center;
+	font-size: 14px;
+	font-color: black;
+	margin-top: 50px;
+}
